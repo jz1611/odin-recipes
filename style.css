@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(50, 52, 66);
+    color: rgb(136, 205, 207);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#title,
+.food-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 44px;
+}
+
+.food-link {
+    color: rgb(236, 148, 116);
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.food-pic {
+    width: 250px;
+    height: auto;
+}
